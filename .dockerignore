@@ -1,0 +1,8 @@
+.venv/
+frontend/node_modules/
+frontend/dist/
+frontend/.pnpm-store/
+.git/
+__pycache__/
+.env
+*.db*

@@ -1,0 +1,16 @@
+.venv
+.git
+.vercel
+.env
+.env.*
+!.env.example
+*.db*
+backend/tests
+backend/migrations
+frontend/node_modules
+frontend/.pnpm-store
+frontend/dist
+.pnpm-store
+docs
+__pycache__
+.pytest_cache

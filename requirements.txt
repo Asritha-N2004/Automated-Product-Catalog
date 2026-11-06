@@ -1,0 +1,10 @@
+fastapi>=0.115,<1
+uvicorn>=0.49,<1
+sqlalchemy>=2.0,<3
+PyJWT>=2.9,<3
+argon2-cffi>=23,<26
+scipy>=1.14,<2
+psycopg[binary]>=3.2,<4
+websockets>=13,<18
+tzdata>=2024.1
+redis>=5,<7

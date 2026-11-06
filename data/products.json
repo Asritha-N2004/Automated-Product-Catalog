@@ -1,0 +1,2704 @@
+[
+  {
+    "id": 1,
+    "name": "Everyday Apple",
+    "brand": "Everyday",
+    "category": "Fruits",
+    "kind": "Apple",
+    "price": 16000,
+    "original_price": 16500,
+    "unit": "1 kg",
+    "stock": 41,
+    "rating": 43,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/fruits.svg"
+  },
+  {
+    "id": 2,
+    "name": "Harvest Select Apple",
+    "brand": "Harvest Select",
+    "category": "Fruits",
+    "kind": "Apple",
+    "price": 17500,
+    "original_price": 18500,
+    "unit": "1 kg",
+    "stock": 42,
+    "rating": 44,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/fruits.svg"
+  },
+  {
+    "id": 3,
+    "name": "Everyday Banana",
+    "brand": "Everyday",
+    "category": "Fruits",
+    "kind": "Banana",
+    "price": 4500,
+    "original_price": 5000,
+    "unit": "6 pcs",
+    "stock": 43,
+    "rating": 45,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/fruits.svg"
+  },
+  {
+    "id": 4,
+    "name": "Harvest Select Banana",
+    "brand": "Harvest Select",
+    "category": "Fruits",
+    "kind": "Banana",
+    "price": 6000,
+    "original_price": 7000,
+    "unit": "6 pcs",
+    "stock": 44,
+    "rating": 46,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/fruits.svg"
+  },
+  {
+    "id": 5,
+    "name": "Everyday Orange",
+    "brand": "Everyday",
+    "category": "Fruits",
+    "kind": "Orange",
+    "price": 10000,
+    "original_price": 10500,
+    "unit": "1 kg",
+    "stock": 45,
+    "rating": 47,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/fruits.svg"
+  },
+  {
+    "id": 6,
+    "name": "Harvest Select Orange",
+    "brand": "Harvest Select",
+    "category": "Fruits",
+    "kind": "Orange",
+    "price": 11500,
+    "original_price": 12500,
+    "unit": "1 kg",
+    "stock": 46,
+    "rating": 48,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/fruits.svg"
+  },
+  {
+    "id": 7,
+    "name": "Everyday Papaya",
+    "brand": "Everyday",
+    "category": "Fruits",
+    "kind": "Papaya",
+    "price": 6500,
+    "original_price": 7000,
+    "unit": "1 kg",
+    "stock": 47,
+    "rating": 42,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/fruits.svg"
+  },
+  {
+    "id": 8,
+    "name": "Harvest Select Papaya",
+    "brand": "Harvest Select",
+    "category": "Fruits",
+    "kind": "Papaya",
+    "price": 8000,
+    "original_price": 9000,
+    "unit": "1 kg",
+    "stock": 48,
+    "rating": 43,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/fruits.svg"
+  },
+  {
+    "id": 9,
+    "name": "Everyday Guava",
+    "brand": "Everyday",
+    "category": "Fruits",
+    "kind": "Guava",
+    "price": 5000,
+    "original_price": 5500,
+    "unit": "500 g",
+    "stock": 49,
+    "rating": 44,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/fruits.svg"
+  },
+  {
+    "id": 10,
+    "name": "Harvest Select Guava",
+    "brand": "Harvest Select",
+    "category": "Fruits",
+    "kind": "Guava",
+    "price": 6500,
+    "original_price": 7500,
+    "unit": "500 g",
+    "stock": 50,
+    "rating": 45,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/fruits.svg"
+  },
+  {
+    "id": 11,
+    "name": "Everyday Tomato",
+    "brand": "Everyday",
+    "category": "Vegetables",
+    "kind": "Tomato",
+    "price": 4000,
+    "original_price": 4500,
+    "unit": "1 kg",
+    "stock": 51,
+    "rating": 46,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/vegetables.svg"
+  },
+  {
+    "id": 12,
+    "name": "Harvest Select Tomato",
+    "brand": "Harvest Select",
+    "category": "Vegetables",
+    "kind": "Tomato",
+    "price": 5500,
+    "original_price": 6500,
+    "unit": "1 kg",
+    "stock": 52,
+    "rating": 47,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/vegetables.svg"
+  },
+  {
+    "id": 13,
+    "name": "Everyday Potato",
+    "brand": "Everyday",
+    "category": "Vegetables",
+    "kind": "Potato",
+    "price": 3800,
+    "original_price": 4300,
+    "unit": "1 kg",
+    "stock": 53,
+    "rating": 48,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/vegetables.svg"
+  },
+  {
+    "id": 14,
+    "name": "Harvest Select Potato",
+    "brand": "Harvest Select",
+    "category": "Vegetables",
+    "kind": "Potato",
+    "price": 5300,
+    "original_price": 6300,
+    "unit": "1 kg",
+    "stock": 54,
+    "rating": 42,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/vegetables.svg"
+  },
+  {
+    "id": 15,
+    "name": "Everyday Onion",
+    "brand": "Everyday",
+    "category": "Vegetables",
+    "kind": "Onion",
+    "price": 4500,
+    "original_price": 5000,
+    "unit": "1 kg",
+    "stock": 55,
+    "rating": 43,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/vegetables.svg"
+  },
+  {
+    "id": 16,
+    "name": "Harvest Select Onion",
+    "brand": "Harvest Select",
+    "category": "Vegetables",
+    "kind": "Onion",
+    "price": 6000,
+    "original_price": 7000,
+    "unit": "1 kg",
+    "stock": 56,
+    "rating": 44,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/vegetables.svg"
+  },
+  {
+    "id": 17,
+    "name": "Everyday Carrot",
+    "brand": "Everyday",
+    "category": "Vegetables",
+    "kind": "Carrot",
+    "price": 4000,
+    "original_price": 4500,
+    "unit": "500 g",
+    "stock": 57,
+    "rating": 45,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/vegetables.svg"
+  },
+  {
+    "id": 18,
+    "name": "Harvest Select Carrot",
+    "brand": "Harvest Select",
+    "category": "Vegetables",
+    "kind": "Carrot",
+    "price": 5500,
+    "original_price": 6500,
+    "unit": "500 g",
+    "stock": 0,
+    "rating": 46,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/vegetables.svg"
+  },
+  {
+    "id": 19,
+    "name": "Everyday Spinach",
+    "brand": "Everyday",
+    "category": "Vegetables",
+    "kind": "Spinach",
+    "price": 2500,
+    "original_price": 3000,
+    "unit": "250 g",
+    "stock": 59,
+    "rating": 47,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/vegetables.svg"
+  },
+  {
+    "id": 20,
+    "name": "Harvest Select Spinach",
+    "brand": "Harvest Select",
+    "category": "Vegetables",
+    "kind": "Spinach",
+    "price": 4000,
+    "original_price": 5000,
+    "unit": "250 g",
+    "stock": 60,
+    "rating": 48,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/vegetables.svg"
+  },
+  {
+    "id": 21,
+    "name": "Everyday Toned Milk",
+    "brand": "Everyday",
+    "category": "Dairy",
+    "kind": "Toned Milk",
+    "price": 3000,
+    "original_price": 3500,
+    "unit": "500 ml",
+    "stock": 61,
+    "rating": 42,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/dairy.svg"
+  },
+  {
+    "id": 22,
+    "name": "Harvest Select Toned Milk",
+    "brand": "Harvest Select",
+    "category": "Dairy",
+    "kind": "Toned Milk",
+    "price": 4500,
+    "original_price": 5500,
+    "unit": "500 ml",
+    "stock": 62,
+    "rating": 43,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/dairy.svg"
+  },
+  {
+    "id": 23,
+    "name": "Everyday Curd",
+    "brand": "Everyday",
+    "category": "Dairy",
+    "kind": "Curd",
+    "price": 4500,
+    "original_price": 5000,
+    "unit": "400 g",
+    "stock": 63,
+    "rating": 44,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/dairy.svg"
+  },
+  {
+    "id": 24,
+    "name": "Harvest Select Curd",
+    "brand": "Harvest Select",
+    "category": "Dairy",
+    "kind": "Curd",
+    "price": 6000,
+    "original_price": 7000,
+    "unit": "400 g",
+    "stock": 64,
+    "rating": 45,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/dairy.svg"
+  },
+  {
+    "id": 25,
+    "name": "Everyday Paneer",
+    "brand": "Everyday",
+    "category": "Dairy",
+    "kind": "Paneer",
+    "price": 9000,
+    "original_price": 9500,
+    "unit": "200 g",
+    "stock": 65,
+    "rating": 46,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/dairy.svg"
+  },
+  {
+    "id": 26,
+    "name": "Harvest Select Paneer",
+    "brand": "Harvest Select",
+    "category": "Dairy",
+    "kind": "Paneer",
+    "price": 10500,
+    "original_price": 11500,
+    "unit": "200 g",
+    "stock": 66,
+    "rating": 47,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/dairy.svg"
+  },
+  {
+    "id": 27,
+    "name": "Everyday Butter",
+    "brand": "Everyday",
+    "category": "Dairy",
+    "kind": "Butter",
+    "price": 6000,
+    "original_price": 6500,
+    "unit": "100 g",
+    "stock": 67,
+    "rating": 48,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/dairy.svg"
+  },
+  {
+    "id": 28,
+    "name": "Harvest Select Butter",
+    "brand": "Harvest Select",
+    "category": "Dairy",
+    "kind": "Butter",
+    "price": 7500,
+    "original_price": 8500,
+    "unit": "100 g",
+    "stock": 68,
+    "rating": 42,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/dairy.svg"
+  },
+  {
+    "id": 29,
+    "name": "Everyday Cheese",
+    "brand": "Everyday",
+    "category": "Dairy",
+    "kind": "Cheese",
+    "price": 14000,
+    "original_price": 14500,
+    "unit": "200 g",
+    "stock": 69,
+    "rating": 43,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/dairy.svg"
+  },
+  {
+    "id": 30,
+    "name": "Harvest Select Cheese",
+    "brand": "Harvest Select",
+    "category": "Dairy",
+    "kind": "Cheese",
+    "price": 15500,
+    "original_price": 16500,
+    "unit": "200 g",
+    "stock": 40,
+    "rating": 44,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/dairy.svg"
+  },
+  {
+    "id": 31,
+    "name": "Everyday Whole Wheat Bread",
+    "brand": "Everyday",
+    "category": "Bakery",
+    "kind": "Whole Wheat Bread",
+    "price": 5000,
+    "original_price": 5500,
+    "unit": "400 g",
+    "stock": 41,
+    "rating": 45,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/bakery.svg"
+  },
+  {
+    "id": 32,
+    "name": "Harvest Select Whole Wheat Bread",
+    "brand": "Harvest Select",
+    "category": "Bakery",
+    "kind": "Whole Wheat Bread",
+    "price": 6500,
+    "original_price": 7500,
+    "unit": "400 g",
+    "stock": 42,
+    "rating": 46,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/bakery.svg"
+  },
+  {
+    "id": 33,
+    "name": "Everyday Pav",
+    "brand": "Everyday",
+    "category": "Bakery",
+    "kind": "Pav",
+    "price": 3500,
+    "original_price": 4000,
+    "unit": "6 pcs",
+    "stock": 43,
+    "rating": 47,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/bakery.svg"
+  },
+  {
+    "id": 34,
+    "name": "Harvest Select Pav",
+    "brand": "Harvest Select",
+    "category": "Bakery",
+    "kind": "Pav",
+    "price": 5000,
+    "original_price": 6000,
+    "unit": "6 pcs",
+    "stock": 44,
+    "rating": 48,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/bakery.svg"
+  },
+  {
+    "id": 35,
+    "name": "Everyday Rusk",
+    "brand": "Everyday",
+    "category": "Bakery",
+    "kind": "Rusk",
+    "price": 4000,
+    "original_price": 4500,
+    "unit": "200 g",
+    "stock": 45,
+    "rating": 42,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/bakery.svg"
+  },
+  {
+    "id": 36,
+    "name": "Harvest Select Rusk",
+    "brand": "Harvest Select",
+    "category": "Bakery",
+    "kind": "Rusk",
+    "price": 5500,
+    "original_price": 6500,
+    "unit": "200 g",
+    "stock": 46,
+    "rating": 43,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/bakery.svg"
+  },
+  {
+    "id": 37,
+    "name": "Everyday Burger Bun",
+    "brand": "Everyday",
+    "category": "Bakery",
+    "kind": "Burger Bun",
+    "price": 4500,
+    "original_price": 5000,
+    "unit": "4 pcs",
+    "stock": 47,
+    "rating": 44,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/bakery.svg"
+  },
+  {
+    "id": 38,
+    "name": "Harvest Select Burger Bun",
+    "brand": "Harvest Select",
+    "category": "Bakery",
+    "kind": "Burger Bun",
+    "price": 6000,
+    "original_price": 7000,
+    "unit": "4 pcs",
+    "stock": 48,
+    "rating": 45,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/bakery.svg"
+  },
+  {
+    "id": 39,
+    "name": "Everyday Multigrain Bread",
+    "brand": "Everyday",
+    "category": "Bakery",
+    "kind": "Multigrain Bread",
+    "price": 6500,
+    "original_price": 7000,
+    "unit": "400 g",
+    "stock": 49,
+    "rating": 46,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/bakery.svg"
+  },
+  {
+    "id": 40,
+    "name": "Harvest Select Multigrain Bread",
+    "brand": "Harvest Select",
+    "category": "Bakery",
+    "kind": "Multigrain Bread",
+    "price": 8000,
+    "original_price": 9000,
+    "unit": "400 g",
+    "stock": 50,
+    "rating": 47,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/bakery.svg"
+  },
+  {
+    "id": 41,
+    "name": "Everyday Tea",
+    "brand": "Everyday",
+    "category": "Beverages",
+    "kind": "Tea",
+    "price": 14000,
+    "original_price": 14500,
+    "unit": "250 g",
+    "stock": 51,
+    "rating": 48,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/beverages.svg"
+  },
+  {
+    "id": 42,
+    "name": "Harvest Select Tea",
+    "brand": "Harvest Select",
+    "category": "Beverages",
+    "kind": "Tea",
+    "price": 15500,
+    "original_price": 16500,
+    "unit": "250 g",
+    "stock": 52,
+    "rating": 42,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/beverages.svg"
+  },
+  {
+    "id": 43,
+    "name": "Everyday Coffee",
+    "brand": "Everyday",
+    "category": "Beverages",
+    "kind": "Coffee",
+    "price": 18000,
+    "original_price": 18500,
+    "unit": "100 g",
+    "stock": 53,
+    "rating": 43,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/beverages.svg"
+  },
+  {
+    "id": 44,
+    "name": "Harvest Select Coffee",
+    "brand": "Harvest Select",
+    "category": "Beverages",
+    "kind": "Coffee",
+    "price": 19500,
+    "original_price": 20500,
+    "unit": "100 g",
+    "stock": 54,
+    "rating": 44,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/beverages.svg"
+  },
+  {
+    "id": 45,
+    "name": "Everyday Orange Juice",
+    "brand": "Everyday",
+    "category": "Beverages",
+    "kind": "Orange Juice",
+    "price": 10000,
+    "original_price": 10500,
+    "unit": "1 L",
+    "stock": 55,
+    "rating": 45,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/beverages.svg"
+  },
+  {
+    "id": 46,
+    "name": "Harvest Select Orange Juice",
+    "brand": "Harvest Select",
+    "category": "Beverages",
+    "kind": "Orange Juice",
+    "price": 11500,
+    "original_price": 12500,
+    "unit": "1 L",
+    "stock": 56,
+    "rating": 46,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/beverages.svg"
+  },
+  {
+    "id": 47,
+    "name": "Everyday Coconut Water",
+    "brand": "Everyday",
+    "category": "Beverages",
+    "kind": "Coconut Water",
+    "price": 4000,
+    "original_price": 4500,
+    "unit": "200 ml",
+    "stock": 57,
+    "rating": 47,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/beverages.svg"
+  },
+  {
+    "id": 48,
+    "name": "Harvest Select Coconut Water",
+    "brand": "Harvest Select",
+    "category": "Beverages",
+    "kind": "Coconut Water",
+    "price": 5500,
+    "original_price": 6500,
+    "unit": "200 ml",
+    "stock": 58,
+    "rating": 48,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/beverages.svg"
+  },
+  {
+    "id": 49,
+    "name": "Everyday Drinking Water",
+    "brand": "Everyday",
+    "category": "Beverages",
+    "kind": "Drinking Water",
+    "price": 2000,
+    "original_price": 2500,
+    "unit": "1 L",
+    "stock": 59,
+    "rating": 42,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/beverages.svg"
+  },
+  {
+    "id": 50,
+    "name": "Harvest Select Drinking Water",
+    "brand": "Harvest Select",
+    "category": "Beverages",
+    "kind": "Drinking Water",
+    "price": 3500,
+    "original_price": 4500,
+    "unit": "1 L",
+    "stock": 60,
+    "rating": 43,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/beverages.svg"
+  },
+  {
+    "id": 51,
+    "name": "Everyday Roasted Peanuts",
+    "brand": "Everyday",
+    "category": "Snacks",
+    "kind": "Roasted Peanuts",
+    "price": 5500,
+    "original_price": 6000,
+    "unit": "200 g",
+    "stock": 61,
+    "rating": 44,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [
+      "peanut"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/snacks.svg"
+  },
+  {
+    "id": 52,
+    "name": "Harvest Select Roasted Peanuts",
+    "brand": "Harvest Select",
+    "category": "Snacks",
+    "kind": "Roasted Peanuts",
+    "price": 7000,
+    "original_price": 8000,
+    "unit": "200 g",
+    "stock": 62,
+    "rating": 45,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [
+      "peanut"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/snacks.svg"
+  },
+  {
+    "id": 53,
+    "name": "Everyday Potato Chips",
+    "brand": "Everyday",
+    "category": "Snacks",
+    "kind": "Potato Chips",
+    "price": 3500,
+    "original_price": 4000,
+    "unit": "100 g",
+    "stock": 63,
+    "rating": 46,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/snacks.svg"
+  },
+  {
+    "id": 54,
+    "name": "Harvest Select Potato Chips",
+    "brand": "Harvest Select",
+    "category": "Snacks",
+    "kind": "Potato Chips",
+    "price": 5000,
+    "original_price": 6000,
+    "unit": "100 g",
+    "stock": 64,
+    "rating": 47,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/snacks.svg"
+  },
+  {
+    "id": 55,
+    "name": "Everyday Biscuits",
+    "brand": "Everyday",
+    "category": "Snacks",
+    "kind": "Biscuits",
+    "price": 4000,
+    "original_price": 4500,
+    "unit": "200 g",
+    "stock": 65,
+    "rating": 48,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/snacks.svg"
+  },
+  {
+    "id": 56,
+    "name": "Harvest Select Biscuits",
+    "brand": "Harvest Select",
+    "category": "Snacks",
+    "kind": "Biscuits",
+    "price": 5500,
+    "original_price": 6500,
+    "unit": "200 g",
+    "stock": 66,
+    "rating": 42,
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/snacks.svg"
+  },
+  {
+    "id": 57,
+    "name": "Everyday Roasted Chickpeas",
+    "brand": "Everyday",
+    "category": "Snacks",
+    "kind": "Roasted Chickpeas",
+    "price": 5000,
+    "original_price": 5500,
+    "unit": "200 g",
+    "stock": 67,
+    "rating": 43,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/snacks.svg"
+  },
+  {
+    "id": 58,
+    "name": "Harvest Select Roasted Chickpeas",
+    "brand": "Harvest Select",
+    "category": "Snacks",
+    "kind": "Roasted Chickpeas",
+    "price": 6500,
+    "original_price": 7500,
+    "unit": "200 g",
+    "stock": 68,
+    "rating": 44,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/snacks.svg"
+  },
+  {
+    "id": 59,
+    "name": "Everyday Popcorn",
+    "brand": "Everyday",
+    "category": "Snacks",
+    "kind": "Popcorn",
+    "price": 3500,
+    "original_price": 4000,
+    "unit": "100 g",
+    "stock": 69,
+    "rating": 45,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/snacks.svg"
+  },
+  {
+    "id": 60,
+    "name": "Harvest Select Popcorn",
+    "brand": "Harvest Select",
+    "category": "Snacks",
+    "kind": "Popcorn",
+    "price": 5000,
+    "original_price": 6000,
+    "unit": "100 g",
+    "stock": 40,
+    "rating": 46,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/snacks.svg"
+  },
+  {
+    "id": 61,
+    "name": "Everyday Rice",
+    "brand": "Everyday",
+    "category": "Grains",
+    "kind": "Rice",
+    "price": 8000,
+    "original_price": 8500,
+    "unit": "1 kg",
+    "stock": 41,
+    "rating": 47,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/grains.svg"
+  },
+  {
+    "id": 62,
+    "name": "Harvest Select Rice",
+    "brand": "Harvest Select",
+    "category": "Grains",
+    "kind": "Rice",
+    "price": 9500,
+    "original_price": 10500,
+    "unit": "1 kg",
+    "stock": 42,
+    "rating": 48,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/grains.svg"
+  },
+  {
+    "id": 63,
+    "name": "Everyday Atta",
+    "brand": "Everyday",
+    "category": "Grains",
+    "kind": "Atta",
+    "price": 5500,
+    "original_price": 6000,
+    "unit": "1 kg",
+    "stock": 43,
+    "rating": 42,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/grains.svg"
+  },
+  {
+    "id": 64,
+    "name": "Harvest Select Atta",
+    "brand": "Harvest Select",
+    "category": "Grains",
+    "kind": "Atta",
+    "price": 7000,
+    "original_price": 8000,
+    "unit": "1 kg",
+    "stock": 44,
+    "rating": 43,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/grains.svg"
+  },
+  {
+    "id": 65,
+    "name": "Everyday Oats",
+    "brand": "Everyday",
+    "category": "Grains",
+    "kind": "Oats",
+    "price": 9500,
+    "original_price": 10000,
+    "unit": "500 g",
+    "stock": 45,
+    "rating": 44,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/grains.svg"
+  },
+  {
+    "id": 66,
+    "name": "Harvest Select Oats",
+    "brand": "Harvest Select",
+    "category": "Grains",
+    "kind": "Oats",
+    "price": 11000,
+    "original_price": 12000,
+    "unit": "500 g",
+    "stock": 46,
+    "rating": 45,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/grains.svg"
+  },
+  {
+    "id": 67,
+    "name": "Everyday Pasta",
+    "brand": "Everyday",
+    "category": "Grains",
+    "kind": "Pasta",
+    "price": 9000,
+    "original_price": 9500,
+    "unit": "500 g",
+    "stock": 47,
+    "rating": 46,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/grains.svg"
+  },
+  {
+    "id": 68,
+    "name": "Harvest Select Pasta",
+    "brand": "Harvest Select",
+    "category": "Grains",
+    "kind": "Pasta",
+    "price": 10500,
+    "original_price": 11500,
+    "unit": "500 g",
+    "stock": 48,
+    "rating": 47,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [
+      "wheat"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/grains.svg"
+  },
+  {
+    "id": 69,
+    "name": "Everyday Poha",
+    "brand": "Everyday",
+    "category": "Grains",
+    "kind": "Poha",
+    "price": 4000,
+    "original_price": 4500,
+    "unit": "500 g",
+    "stock": 49,
+    "rating": 48,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/grains.svg"
+  },
+  {
+    "id": 70,
+    "name": "Harvest Select Poha",
+    "brand": "Harvest Select",
+    "category": "Grains",
+    "kind": "Poha",
+    "price": 5500,
+    "original_price": 6500,
+    "unit": "500 g",
+    "stock": 50,
+    "rating": 42,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/grains.svg"
+  },
+  {
+    "id": 71,
+    "name": "Everyday Toor Dal",
+    "brand": "Everyday",
+    "category": "Pulses",
+    "kind": "Toor Dal",
+    "price": 15000,
+    "original_price": 15500,
+    "unit": "1 kg",
+    "stock": 51,
+    "rating": 43,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/pulses.svg"
+  },
+  {
+    "id": 72,
+    "name": "Harvest Select Toor Dal",
+    "brand": "Harvest Select",
+    "category": "Pulses",
+    "kind": "Toor Dal",
+    "price": 16500,
+    "original_price": 17500,
+    "unit": "1 kg",
+    "stock": 52,
+    "rating": 44,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/pulses.svg"
+  },
+  {
+    "id": 73,
+    "name": "Everyday Moong Dal",
+    "brand": "Everyday",
+    "category": "Pulses",
+    "kind": "Moong Dal",
+    "price": 13000,
+    "original_price": 13500,
+    "unit": "1 kg",
+    "stock": 53,
+    "rating": 45,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/pulses.svg"
+  },
+  {
+    "id": 74,
+    "name": "Harvest Select Moong Dal",
+    "brand": "Harvest Select",
+    "category": "Pulses",
+    "kind": "Moong Dal",
+    "price": 14500,
+    "original_price": 15500,
+    "unit": "1 kg",
+    "stock": 54,
+    "rating": 46,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/pulses.svg"
+  },
+  {
+    "id": 75,
+    "name": "Everyday Masoor Dal",
+    "brand": "Everyday",
+    "category": "Pulses",
+    "kind": "Masoor Dal",
+    "price": 11000,
+    "original_price": 11500,
+    "unit": "1 kg",
+    "stock": 55,
+    "rating": 47,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/pulses.svg"
+  },
+  {
+    "id": 76,
+    "name": "Harvest Select Masoor Dal",
+    "brand": "Harvest Select",
+    "category": "Pulses",
+    "kind": "Masoor Dal",
+    "price": 12500,
+    "original_price": 13500,
+    "unit": "1 kg",
+    "stock": 56,
+    "rating": 48,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/pulses.svg"
+  },
+  {
+    "id": 77,
+    "name": "Everyday Chickpeas",
+    "brand": "Everyday",
+    "category": "Pulses",
+    "kind": "Chickpeas",
+    "price": 12000,
+    "original_price": 12500,
+    "unit": "1 kg",
+    "stock": 57,
+    "rating": 42,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/pulses.svg"
+  },
+  {
+    "id": 78,
+    "name": "Harvest Select Chickpeas",
+    "brand": "Harvest Select",
+    "category": "Pulses",
+    "kind": "Chickpeas",
+    "price": 13500,
+    "original_price": 14500,
+    "unit": "1 kg",
+    "stock": 58,
+    "rating": 43,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/pulses.svg"
+  },
+  {
+    "id": 79,
+    "name": "Everyday Rajma",
+    "brand": "Everyday",
+    "category": "Pulses",
+    "kind": "Rajma",
+    "price": 16000,
+    "original_price": 16500,
+    "unit": "1 kg",
+    "stock": 59,
+    "rating": 44,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/pulses.svg"
+  },
+  {
+    "id": 80,
+    "name": "Harvest Select Rajma",
+    "brand": "Harvest Select",
+    "category": "Pulses",
+    "kind": "Rajma",
+    "price": 17500,
+    "original_price": 18500,
+    "unit": "1 kg",
+    "stock": 60,
+    "rating": 45,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/pulses.svg"
+  },
+  {
+    "id": 81,
+    "name": "Everyday Chicken Breast",
+    "brand": "Everyday",
+    "category": "Meat",
+    "kind": "Chicken Breast",
+    "price": 22000,
+    "original_price": 22500,
+    "unit": "500 g",
+    "stock": 61,
+    "rating": 46,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/meat.svg"
+  },
+  {
+    "id": 82,
+    "name": "Harvest Select Chicken Breast",
+    "brand": "Harvest Select",
+    "category": "Meat",
+    "kind": "Chicken Breast",
+    "price": 23500,
+    "original_price": 24500,
+    "unit": "500 g",
+    "stock": 62,
+    "rating": 47,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/meat.svg"
+  },
+  {
+    "id": 83,
+    "name": "Everyday Chicken Curry Cut",
+    "brand": "Everyday",
+    "category": "Meat",
+    "kind": "Chicken Curry Cut",
+    "price": 17000,
+    "original_price": 17500,
+    "unit": "500 g",
+    "stock": 63,
+    "rating": 48,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/meat.svg"
+  },
+  {
+    "id": 84,
+    "name": "Harvest Select Chicken Curry Cut",
+    "brand": "Harvest Select",
+    "category": "Meat",
+    "kind": "Chicken Curry Cut",
+    "price": 18500,
+    "original_price": 19500,
+    "unit": "500 g",
+    "stock": 64,
+    "rating": 42,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/meat.svg"
+  },
+  {
+    "id": 85,
+    "name": "Everyday Eggs",
+    "brand": "Everyday",
+    "category": "Meat",
+    "kind": "Eggs",
+    "price": 5500,
+    "original_price": 6000,
+    "unit": "6 pcs",
+    "stock": 65,
+    "rating": 43,
+    "tags": [],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/meat.svg"
+  },
+  {
+    "id": 86,
+    "name": "Harvest Select Eggs",
+    "brand": "Harvest Select",
+    "category": "Meat",
+    "kind": "Eggs",
+    "price": 7000,
+    "original_price": 8000,
+    "unit": "6 pcs",
+    "stock": 66,
+    "rating": 44,
+    "tags": [],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/meat.svg"
+  },
+  {
+    "id": 87,
+    "name": "Everyday Rohu Fish",
+    "brand": "Everyday",
+    "category": "Meat",
+    "kind": "Rohu Fish",
+    "price": 18000,
+    "original_price": 18500,
+    "unit": "500 g",
+    "stock": 67,
+    "rating": 45,
+    "tags": [],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/meat.svg"
+  },
+  {
+    "id": 88,
+    "name": "Harvest Select Rohu Fish",
+    "brand": "Harvest Select",
+    "category": "Meat",
+    "kind": "Rohu Fish",
+    "price": 19500,
+    "original_price": 20500,
+    "unit": "500 g",
+    "stock": 68,
+    "rating": 46,
+    "tags": [],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/meat.svg"
+  },
+  {
+    "id": 89,
+    "name": "Everyday Mutton",
+    "brand": "Everyday",
+    "category": "Meat",
+    "kind": "Mutton",
+    "price": 42000,
+    "original_price": 42500,
+    "unit": "500 g",
+    "stock": 69,
+    "rating": 47,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/meat.svg"
+  },
+  {
+    "id": 90,
+    "name": "Harvest Select Mutton",
+    "brand": "Harvest Select",
+    "category": "Meat",
+    "kind": "Mutton",
+    "price": 43500,
+    "original_price": 44500,
+    "unit": "500 g",
+    "stock": 40,
+    "rating": 48,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/meat.svg"
+  },
+  {
+    "id": 91,
+    "name": "Everyday Dishwash Liquid",
+    "brand": "Everyday",
+    "category": "Household essentials",
+    "kind": "Dishwash Liquid",
+    "price": 10000,
+    "original_price": 10500,
+    "unit": "500 ml",
+    "stock": 41,
+    "rating": 42,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/household-essentials.svg"
+  },
+  {
+    "id": 92,
+    "name": "Harvest Select Dishwash Liquid",
+    "brand": "Harvest Select",
+    "category": "Household essentials",
+    "kind": "Dishwash Liquid",
+    "price": 11500,
+    "original_price": 12500,
+    "unit": "500 ml",
+    "stock": 42,
+    "rating": 43,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/household-essentials.svg"
+  },
+  {
+    "id": 93,
+    "name": "Everyday Laundry Detergent",
+    "brand": "Everyday",
+    "category": "Household essentials",
+    "kind": "Laundry Detergent",
+    "price": 18000,
+    "original_price": 18500,
+    "unit": "1 kg",
+    "stock": 43,
+    "rating": 44,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/household-essentials.svg"
+  },
+  {
+    "id": 94,
+    "name": "Harvest Select Laundry Detergent",
+    "brand": "Harvest Select",
+    "category": "Household essentials",
+    "kind": "Laundry Detergent",
+    "price": 19500,
+    "original_price": 20500,
+    "unit": "1 kg",
+    "stock": 44,
+    "rating": 45,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/household-essentials.svg"
+  },
+  {
+    "id": 95,
+    "name": "Everyday Floor Cleaner",
+    "brand": "Everyday",
+    "category": "Household essentials",
+    "kind": "Floor Cleaner",
+    "price": 15000,
+    "original_price": 15500,
+    "unit": "1 L",
+    "stock": 45,
+    "rating": 46,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/household-essentials.svg"
+  },
+  {
+    "id": 96,
+    "name": "Harvest Select Floor Cleaner",
+    "brand": "Harvest Select",
+    "category": "Household essentials",
+    "kind": "Floor Cleaner",
+    "price": 16500,
+    "original_price": 17500,
+    "unit": "1 L",
+    "stock": 46,
+    "rating": 47,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/household-essentials.svg"
+  },
+  {
+    "id": 97,
+    "name": "Everyday Tissue Roll",
+    "brand": "Everyday",
+    "category": "Household essentials",
+    "kind": "Tissue Roll",
+    "price": 12000,
+    "original_price": 12500,
+    "unit": "4 pcs",
+    "stock": 47,
+    "rating": 48,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/household-essentials.svg"
+  },
+  {
+    "id": 98,
+    "name": "Harvest Select Tissue Roll",
+    "brand": "Harvest Select",
+    "category": "Household essentials",
+    "kind": "Tissue Roll",
+    "price": 13500,
+    "original_price": 14500,
+    "unit": "4 pcs",
+    "stock": 48,
+    "rating": 42,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/household-essentials.svg"
+  },
+  {
+    "id": 99,
+    "name": "Everyday Garbage Bags",
+    "brand": "Everyday",
+    "category": "Household essentials",
+    "kind": "Garbage Bags",
+    "price": 8500,
+    "original_price": 9000,
+    "unit": "30 pcs",
+    "stock": 49,
+    "rating": 43,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/household-essentials.svg"
+  },
+  {
+    "id": 100,
+    "name": "Harvest Select Garbage Bags",
+    "brand": "Harvest Select",
+    "category": "Household essentials",
+    "kind": "Garbage Bags",
+    "price": 10000,
+    "original_price": 11000,
+    "unit": "30 pcs",
+    "stock": 50,
+    "rating": 44,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/household-essentials.svg"
+  },
+  {
+    "id": 101,
+    "name": "Everyday Soap",
+    "brand": "Everyday",
+    "category": "Personal care",
+    "kind": "Soap",
+    "price": 3500,
+    "original_price": 4000,
+    "unit": "100 g",
+    "stock": 51,
+    "rating": 45,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/personal-care.svg"
+  },
+  {
+    "id": 102,
+    "name": "Harvest Select Soap",
+    "brand": "Harvest Select",
+    "category": "Personal care",
+    "kind": "Soap",
+    "price": 5000,
+    "original_price": 6000,
+    "unit": "100 g",
+    "stock": 52,
+    "rating": 46,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/personal-care.svg"
+  },
+  {
+    "id": 103,
+    "name": "Everyday Shampoo",
+    "brand": "Everyday",
+    "category": "Personal care",
+    "kind": "Shampoo",
+    "price": 13000,
+    "original_price": 13500,
+    "unit": "180 ml",
+    "stock": 53,
+    "rating": 47,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/personal-care.svg"
+  },
+  {
+    "id": 104,
+    "name": "Harvest Select Shampoo",
+    "brand": "Harvest Select",
+    "category": "Personal care",
+    "kind": "Shampoo",
+    "price": 14500,
+    "original_price": 15500,
+    "unit": "180 ml",
+    "stock": 54,
+    "rating": 48,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/personal-care.svg"
+  },
+  {
+    "id": 105,
+    "name": "Everyday Toothpaste",
+    "brand": "Everyday",
+    "category": "Personal care",
+    "kind": "Toothpaste",
+    "price": 9000,
+    "original_price": 9500,
+    "unit": "150 g",
+    "stock": 55,
+    "rating": 42,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/personal-care.svg"
+  },
+  {
+    "id": 106,
+    "name": "Harvest Select Toothpaste",
+    "brand": "Harvest Select",
+    "category": "Personal care",
+    "kind": "Toothpaste",
+    "price": 10500,
+    "original_price": 11500,
+    "unit": "150 g",
+    "stock": 56,
+    "rating": 43,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/personal-care.svg"
+  },
+  {
+    "id": 107,
+    "name": "Everyday Handwash",
+    "brand": "Everyday",
+    "category": "Personal care",
+    "kind": "Handwash",
+    "price": 7000,
+    "original_price": 7500,
+    "unit": "250 ml",
+    "stock": 57,
+    "rating": 44,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/personal-care.svg"
+  },
+  {
+    "id": 108,
+    "name": "Harvest Select Handwash",
+    "brand": "Harvest Select",
+    "category": "Personal care",
+    "kind": "Handwash",
+    "price": 8500,
+    "original_price": 9500,
+    "unit": "250 ml",
+    "stock": 58,
+    "rating": 45,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/personal-care.svg"
+  },
+  {
+    "id": 109,
+    "name": "Everyday Toothbrush",
+    "brand": "Everyday",
+    "category": "Personal care",
+    "kind": "Toothbrush",
+    "price": 3500,
+    "original_price": 4000,
+    "unit": "1 pc",
+    "stock": 59,
+    "rating": 46,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/personal-care.svg"
+  },
+  {
+    "id": 110,
+    "name": "Harvest Select Toothbrush",
+    "brand": "Harvest Select",
+    "category": "Personal care",
+    "kind": "Toothbrush",
+    "price": 5000,
+    "original_price": 6000,
+    "unit": "1 pc",
+    "stock": 60,
+    "rating": 47,
+    "tags": [],
+    "allergens": [],
+    "nutrition": {
+      "calories": null,
+      "protein": null,
+      "carbohydrates": null,
+      "fat": null,
+      "source": null
+    },
+    "image_url": "/products/personal-care.svg"
+  }
+]
